@@ -1,124 +1,32 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/semantic.material.min.css">
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
-		<body>
-			<div class="pusher">
-      				<div class="ui top fixed menu" style="border-radius: 0">
-        				<div class="ui container">
-				        <div class="header item">Digital Humanities Uni Passau</div>
-          				<div class="ui pointing dropdown link item">
-            					Bootswatch/v3<i class="dropdown icon"></i>
-            				<div class="menu">
-			              <div class="item" data-theme="bootswatch/v3/cerulean">
-                			Cerulean
-              				</div>
-              <div class="item" data-theme="bootswatch/v3/cosmo">Cosmo</div>
-              <div class="item" data-theme="bootswatch/v3/cyborg">Cyborg</div>
-              <div class="item" data-theme="bootswatch/v3/darkly">Darkly</div>
-              <div class="item" data-theme="bootswatch/v3/flatly">Flatly</div>
-              <div class="item" data-theme="bootswatch/v3/journal">Journal</div>
-              <div class="item" data-theme="bootswatch/v3/lumen">Lumen</div>
-              <div class="item" data-theme="bootswatch/v3/paper">Paper</div>
-              <div class="item" data-theme="bootswatch/v3/readable">
-                Readable
-              </div>
-              <div class="item" data-theme="bootswatch/v3/sandstone">
-                Sandstone
-              </div>
-              <div class="item" data-theme="bootswatch/v3/simplex">Simplex</div>
-              <div class="item" data-theme="bootswatch/v3/slate">Slate</div>
-              <div class="item" data-theme="bootswatch/v3/solar">Solar</div>
-              <div class="item" data-theme="bootswatch/v3/spacelab">
-                Spacelab
-              </div>
-              <div class="item" data-theme="bootswatch/v3/superhero">
-                Superhero
-              </div>
-              <div class="item" data-theme="bootswatch/v3/united">United</div>
-              <div class="item" data-theme="bootswatch/v3/yeti">Yeti</div>
+<html>
+    <head>
+	<title>{{ page.title }}</title>
+	<!-- link to main stylesheet -->
+	<link rel="stylesheet" type="text/css" href="/css/semantic.material.min.css">
+	<link rel="stylesheet" type="text/css" href="/css/main.css">
+    </head>
+    <body>
+        <div class="ui menu">
+            <div class="header item">DH Uni Passau</div>
+            <div class="ui dropdown item" tabindex="0">
+                Projekte
+                <i class="dropdown icon"></i>
+                <div class="menu" tabindex="-1">
+                    <div class="item" href="/projects/dh4webarchive">dh4webarchive</div>
+                </div>
             </div>
-          </div>
-          <div class="ui pointing dropdown link item">
-            Bootswatch/v4<i class="dropdown icon"></i>
-            <div class="menu">
-              <div class="item" data-theme="bootswatch/v4/cerulean">
-                Cerulean
-              </div>
-              <div class="item" data-theme="bootswatch/v4/cosmo">Cosmo</div>
-              <div class="item" data-theme="bootswatch/v4/cyborg">Cyborg</div>
-              <div class="item" data-theme="bootswatch/v4/darkly">Darkly</div>
-              <div class="item" data-theme="bootswatch/v4/flatly">Flatly</div>
-              <div class="item" data-theme="bootswatch/v4/journal">Journal</div>
-              <div class="item" data-theme="bootswatch/v4/litera">Litera</div>
-              <div class="item" data-theme="bootswatch/v4/lumen">Lumen</div>
-              <div class="item" data-theme="bootswatch/v4/lux">Lux</div>
-              <div class="item" data-theme="bootswatch/v4/materia">Materia</div>
-              <div class="item" data-theme="bootswatch/v4/minty">Minty</div>
-              <div class="item" data-theme="bootswatch/v4/pulse">Pulse</div>
-              <div class="item" data-theme="bootswatch/v4/sandstone">
-                Sandstone
-              </div>
-              <div class="item" data-theme="bootswatch/v4/simplex">Simplex</div>
-              <div class="item" data-theme="bootswatch/v4/sketchy">Sketchy</div>
-              <div class="item" data-theme="bootswatch/v4/slate">Slate</div>
-              <div class="item" data-theme="bootswatch/v4/solar">Solar</div>
-              <div class="item" data-theme="bootswatch/v4/spacelab">
-                Spacelab
-              </div>
-              <div class="item" data-theme="bootswatch/v4/superhero">
-                Superhero
-              </div>
-              <div class="item" data-theme="bootswatch/v4/united">United</div>
-              <div class="item" data-theme="bootswatch/v4/yeti">Yeti</div>
+            <div class="right menu">
+                <a class="item" href="/contact">Kontakt</a>
             </div>
-          </div>
-          <div class="ui pointing dropdown link item">
-            Semantic-UI<i class="dropdown icon"></i>
-            <div class="menu">
-              <div class="item" data-theme="semantic-ui/v2/amazon">Amazon</div>
-              <div class="item" data-theme="semantic-ui/v2/bootstrap3">
-                Bootstrap3
-              </div>
-              <div class="item" data-theme="semantic-ui/v2/chubby">Chubby</div>
-              <div class="item" data-theme="semantic-ui/v2/flat">Flat</div>
-              <div class="item" data-theme="semantic-ui/v2/github">Github</div>
-              <div class="item" data-theme="semantic-ui/v2/material">
-                Material
-              </div>
-              <div class="item" data-theme="semantic-ui/v2/semantic-ui">
-                Semantic-UI
-              </div>
-              <div class="item" data-theme="semantic-ui/v2/twitter">
-                Twitter
-              </div>
-            </div>
-          </div>
         </div>
-      </div>
-			
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/cv">CV</a></li>
-	        		<li><a href="/blog">Blog</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
-	        		<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+	<div class="container">
+	    {{ content }}
+	</div>
+	<footer>
+	    <ul>
+	        <li><a href="/contact">Kontakt</a></li>
+	    </ul>
+	</footer>
+    </body>
+</html>

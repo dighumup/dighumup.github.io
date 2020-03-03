@@ -29,3 +29,7 @@ Dr.-Hans-Kapfinger-Straße 14 d
 Universität Passau
 Lehrstuhl für Digital Humanities
 94030 Passau
+
+## Webseite
+
+Webseite des Lehrstuhls Digital Humanities an der Uni Passau: [www.uni-passau.de/dh](https://www.uni-passau.de/dh)

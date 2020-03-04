@@ -26,3 +26,15 @@ Das Projekt umfasst drei Bereiche:
 "Wir beschäftigen uns unter anderem mit der Frage: Wie kann ich die Erfahrung archivieren, die ein Mensch mit dem Internet im Jahr 2018 hatte?", sagt Prof. Dr. Rehbein. Praxistauglich geprüfte Werkzeuge würden in eine projektspezifische Webplattform übernommen. Ziel sei es, erfolgreich getestete Verfahren und Tools so zu gestalten, dass sie auch von anderen Organisationen, die das Web selektiv archivieren, eingesetzt werden können.
 
 Der Lehrstuhl für Digital Humanities bringt in das Projekt sowohl das benötigte Methodenwissen als auch die Grundlagen für eine wissenschaftstheoretische Einordnung der Webarchivierung ein. Außerdem dient er als Informationsvermittler zwischen den wissenschaftlichen Anwenderinnen und Anwendern und der Staatsbibliothek. Die Deutsche Forschungsgesellschaft (DFG) fördert das Projekt über eine Laufzeit von drei Jahren.
+
+## Publikationen
+
+<div class="ui segment">
+    <p>
+        Eckl M., Donig S., Gassner S., Reiter F., Göler D., Rehbein M. (2020).
+        <em>Der Event Crawl als Ansatz für den Aufbau von Webarchiven.</em>
+        7. Jahrestagung des Verbands Digital Humanities im deutschsprachigen Raum, Paderborn. DOI: 10.13140/RG.2.2.17819.21287
+        <br/>
+        <a href="/assets/Poster_DHd_2020_Paderborn_A0.pdf"><i class="file pdf outline icon"></i> Poster als PDF herunterladen</a>.
+    </p>
+</div>

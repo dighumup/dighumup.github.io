@@ -31,9 +31,11 @@ Der Lehrstuhl für Digital Humanities bringt in das Projekt sowohl das benötigt
 
 <div class="ui segment">
     <p>
+     <a href="https://www.researchgate.net/publication/339658620_Der_Event_Crawl_als_Ansatz_fur_den_Aufbau_von_Webarchiven_am_Beispiel_von_politischen_Wahlkampfen">
         Eckl M., Donig S., Gassner S., Reiter F., Göler D., Rehbein M. (2020).
         <em>Der Event Crawl als Ansatz für den Aufbau von Webarchiven.</em>
         7. Jahrestagung des Verbands Digital Humanities im deutschsprachigen Raum, Paderborn. DOI: 10.13140/RG.2.2.17819.21287
+     </a>
         <br/>
         <a href="/assets/Poster_DHd_2020_Paderborn_A0.pdf"><i class="file pdf outline icon"></i> Poster als PDF herunterladen</a>.
     </p>

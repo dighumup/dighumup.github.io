@@ -7,9 +7,15 @@ title: dh4webarchive | DH Uni Passau
 
 ## DFG-Projekt Webarchive - Internet für die Nachwelt archivieren
 
+<div class="ui container">
+    <img class="ui medium right floated image" src="/assets/stabi_stuttgart.jpg">
+    <p>
 Was könnte Historikerinnen und Historiker im Jahr 2058 am Online-Wahlkampf in Bayern 2018 interessieren? Ein Team der Universität Passau entwickelt in dem DFG-Projekt Webarchive Methoden, um Webseiten, Online-Berichte, Social-Media-Debatten und Kommentare systematisch aufzubewahren.
-
+</p>
+<p>
 Die große Zeit des World Wide Webs beginnt in den 90er Jahren: "Aus dieser Zeit ist aber auch viel verloren gegangen", sagt Prof. Dr. Malte Rehbein, Inhaber des <a href="https://www.phil.uni-passau.de/dh/">Lehrstuhls für Digital Humanities an der Universität Passau</a>, "so dass man von den dark ages des Internet sprechen kann". Seitdem hätten sich verschiedene private Initiativen gefunden, um alte Webseiten für die Nachwelt aufbewahren, darunter etwa der Online-Dienst Wayback Machine des gemeinnützigen Projekts Internet Archive. Allerdings seien diese Aktivitäten mehr oder weniger zufällig. Meist fehlt eine systematische Entwicklung des Bestands, und die Möglichkeiten der wissenschaftlichen Nutzung sind stark eingeschränkt.
+</p>
+</div>
 
 ### Verfahren und Tools der Digital Humanities
 
